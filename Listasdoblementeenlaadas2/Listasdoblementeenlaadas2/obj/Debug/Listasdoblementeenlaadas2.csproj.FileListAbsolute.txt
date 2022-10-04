@@ -1,0 +1,10 @@
+C:\Users\Hector Peña\source\repos\Listasdoblementeenlaadas2\Listasdoblementeenlaadas2\bin\Debug\Listasdoblementeenlaadas2.exe.config
+C:\Users\Hector Peña\source\repos\Listasdoblementeenlaadas2\Listasdoblementeenlaadas2\bin\Debug\Listasdoblementeenlaadas2.exe
+C:\Users\Hector Peña\source\repos\Listasdoblementeenlaadas2\Listasdoblementeenlaadas2\bin\Debug\Listasdoblementeenlaadas2.pdb
+C:\Users\Hector Peña\source\repos\Listasdoblementeenlaadas2\Listasdoblementeenlaadas2\obj\Debug\Listasdoblementeenlaadas2.csproj.AssemblyReference.cache
+C:\Users\Hector Peña\source\repos\Listasdoblementeenlaadas2\Listasdoblementeenlaadas2\obj\Debug\Listasdoblementeenlaadas2.Form1.resources
+C:\Users\Hector Peña\source\repos\Listasdoblementeenlaadas2\Listasdoblementeenlaadas2\obj\Debug\Listasdoblementeenlaadas2.Properties.Resources.resources
+C:\Users\Hector Peña\source\repos\Listasdoblementeenlaadas2\Listasdoblementeenlaadas2\obj\Debug\Listasdoblementeenlaadas2.csproj.GenerateResource.cache
+C:\Users\Hector Peña\source\repos\Listasdoblementeenlaadas2\Listasdoblementeenlaadas2\obj\Debug\Listasdoblementeenlaadas2.csproj.CoreCompileInputs.cache
+C:\Users\Hector Peña\source\repos\Listasdoblementeenlaadas2\Listasdoblementeenlaadas2\obj\Debug\Listasdoblementeenlaadas2.exe
+C:\Users\Hector Peña\source\repos\Listasdoblementeenlaadas2\Listasdoblementeenlaadas2\obj\Debug\Listasdoblementeenlaadas2.pdb
